@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "hotfixesFormat": null,
+  "versions": [
+    {
+      "id": "1.1.0",
+      "releasedAt": XXXXXXXXXX,
+      "promotions": {
+        "downloads": {
+          "curseforge": "https://www.curseforge.com/minecraft/modpacks/fluffcraft-forge",
+          "generic": "https://discord.gg/XYcxavNmfU"
+        }
+      }
+    }
+  ]
+}
